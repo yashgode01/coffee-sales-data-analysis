@@ -35,7 +35,7 @@ A Python based data analysis project focused on analyzing coffee sales data to i
 
 - `Coffee_Sales_Analysis.ipynb` – Python analysis notebook
 - `coffee_sales.csv` – Dataset
-- `images/` – Analysis visualizations
+- `Coffee_Sales_Analysis.ppt` – Powerpoint Presentation
 
 ## Key Outcome
 
