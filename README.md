@@ -37,6 +37,6 @@ A Python based data analysis project focused on analyzing coffee sales data to i
 - `coffee_sales.csv` – Dataset
 - `images/` – Analysis visualizations
 
-## 💡 Key Outcome
+## Key Outcome
 
 The project converts raw coffee sales data into meaningful visualizations and actionable business insights to support sales and product decisions.
